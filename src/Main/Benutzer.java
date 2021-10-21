@@ -7,6 +7,11 @@ public class Benutzer {
     private String nachName;
     private List<Sport> sport;
 
+    public Benutzer(String vorName, String nachName, List<Sport> sport) {
+        this.vorName = vorName;
+        this.nachName = nachName;
+        this.sport = sport;
+    }
 
     /**
      *
