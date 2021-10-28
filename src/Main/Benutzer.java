@@ -62,7 +62,7 @@ public class Benutzer {
     }
 
     /**
-     *
+     *Returns the total of time taken by sports in array
      * @return double
      */
     public double kalkuliereZeit(){
@@ -73,7 +73,7 @@ public class Benutzer {
     }
 
     /**
-     *
+     *Returns the amount of time taken by sport s
      * @param s:Sport
      * @return double
      */
@@ -83,7 +83,7 @@ public class Benutzer {
 
 
     /**
-     *
+     *Returns the average time of sports in array
      * @return double
      */
     public double kalkuliereDurschnittszeit(){
